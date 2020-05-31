@@ -1,6 +1,14 @@
 # iWater-app
 :droplet: Projeto de calculadora para consumo de água desenvolvido na plataforma MIT App Inventor 2
 
+## :rocket: Tecnologias utilizadas
+
+O projeto foi feito utilizando as seguintes tecnologias:
+
+- [MIT App Inventor 2](https://appinventor.mit.edu/)
+{...}
+
+
 ## :page_facing_up: Licença 
 Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
 
